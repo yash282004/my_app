@@ -1,6 +1,6 @@
-// glassmorphic_container.dart
 import 'package:flutter/material.dart';
-import 'dart:ui'; // Add this import for ImageFilter
+import 'dart:ui';
+
 class GlassmorphicContainer extends StatelessWidget {
   final double width;
   final double height;

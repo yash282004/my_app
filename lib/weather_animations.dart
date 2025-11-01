@@ -1,4 +1,3 @@
-// weather_animations.dart
 import 'package:flutter/material.dart';
 import 'weather_model.dart';
 
